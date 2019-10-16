@@ -5,7 +5,7 @@ def base_hash
 end
 
 def monopoly_with_second_tier
-  monopoly = {}
+  monopoly = {:la_liga => {}}
 end
 
 def monopoly_with_third_tier
